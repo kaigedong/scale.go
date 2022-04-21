@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/itering/scale.go"
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	"github.com/kaigedong/scale.go"
+	"github.com/kaigedong/scale.go/source"
+	"github.com/kaigedong/scale.go/types"
+	"github.com/kaigedong/scale.go/utiles"
 )
 
 func TestV14ExtrinsicDecoder(t *testing.T) {

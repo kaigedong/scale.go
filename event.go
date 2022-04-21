@@ -3,8 +3,8 @@ package scalecodec
 import (
 	"fmt"
 
-	scaleType "github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	scaleType "github.com/kaigedong/scale.go/types"
+	"github.com/kaigedong/scale.go/utiles"
 )
 
 type EventsDecoder struct {

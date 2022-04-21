@@ -1,7 +1,7 @@
 package types_test
 
 import (
-	"github.com/itering/scale.go/types"
+	"github.com/kaigedong/scale.go/types"
 	"testing"
 )
 

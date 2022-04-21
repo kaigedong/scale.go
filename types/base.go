@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/itering/scale.go/utiles"
+	"github.com/kaigedong/scale.go/utiles"
 )
 
 type ScaleDecoderOption struct {
